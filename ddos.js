@@ -11,8 +11,8 @@ btn.innerHTML = "startup"
 alert("passwordRequired");
 
     }
-    console.log(location.href);
-console.log("password")
+    console.log("fasz");
+
     
 
 
