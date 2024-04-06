@@ -12,7 +12,7 @@ alert("passwordRequired");
 
     }
     console.log(location.href);
-
+console.log("password")
     
 
 
